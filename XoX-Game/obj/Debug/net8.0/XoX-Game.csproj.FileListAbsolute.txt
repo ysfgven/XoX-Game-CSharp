@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\bin\Debug\net8.0\XoX-Game.exe
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\bin\Debug\net8.0\XoX-Game.deps.json
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\bin\Debug\net8.0\XoX-Game.runtimeconfig.json
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\bin\Debug\net8.0\XoX-Game.dll
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\bin\Debug\net8.0\XoX-Game.pdb
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.dll
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\refint\XoX-Game.dll
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.pdb
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\XoX-Game.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\XoX-Game\XoX-Game\obj\Debug\net8.0\ref\XoX-Game.dll
